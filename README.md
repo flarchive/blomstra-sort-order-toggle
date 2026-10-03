@@ -2,13 +2,15 @@
 
 > **Read-only archive of released versions of blomstra/sort-order-toggle.** Not for installation: use [Packagist](https://packagist.org/packages/blomstra/sort-order-toggle) or the [upstream repository](https://github.com/blomstra/flarum-ext-sort-order-toggle).
 
-**0** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/blomstra-sort-order-toggle/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.3.0`
+**3** versions archived · Latest: [`0.2.0`](https://github.com/flarchive/blomstra-sort-order-toggle/tree/archive/v0.2.0) · License: `MIT` · Flarum: `^1.3.0`
 
 ## Archived Versions
 
 | Version | Released | Flarum | Source |
 |---|---|---|---|
-| — | — | — | — |
+| `0.1.0` | 2022-02-17 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sort-order-toggle/tree/archive/v0.1.0) |
+| `0.1.1` | 2022-02-28 | `^1.2.0` | [Browse](https://github.com/flarchive/blomstra-sort-order-toggle/tree/archive/v0.1.1) |
+| `0.2.0` | 2022-08-29 | `^1.3.0` | [Browse](https://github.com/flarchive/blomstra-sort-order-toggle/tree/archive/v0.2.0) |
 
 Catalog entry: [packages/blomstra-sort-order-toggle.json](https://github.com/flarchive/archive-index/blob/main/packages/blomstra-sort-order-toggle.json)
 
